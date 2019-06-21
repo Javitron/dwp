@@ -66,7 +66,7 @@
       javax.sql.DataSource
     </res-type>
     <res-auth>
-      Container
+      CONTAINER
     </res-auth>
   </resource-ref>
 
@@ -85,5 +85,3 @@
   </security-constraint>
 
 </web-app>
-
-
